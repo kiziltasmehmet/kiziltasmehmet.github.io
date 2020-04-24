@@ -1,2 +1,2 @@
 # kiziltasmehmet.github.io
-personal website
+Personal Website
