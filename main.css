@@ -1,0 +1,9 @@
+.homepagebackground{
+    margin-top:-9px;
+    margin-left: -8px;
+	  height:800px;
+	  width:1360px;
+	  background-image:url("home.jpg");
+	  background-repeat: no-repeat;
+	  background-size:100% 100%;
+}
